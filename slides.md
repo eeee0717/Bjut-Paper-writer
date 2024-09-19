@@ -6,7 +6,7 @@ title: Welcome to LaTeX
 
 # Welcome to LaTeX!
 
-<img src="https://www.latex-project.org/img/latex-project-logo.svg" alt="SVG Image" width="300">
+<img src="/images/cover.svg" alt="SVG Image" width="300">
 
 ---
 
