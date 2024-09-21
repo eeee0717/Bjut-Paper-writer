@@ -97,7 +97,7 @@ $$
 <div>
 
 <video class="h-80%" muted autoplay loop>
-  <source src="https://www.overleaf.com/img/website-redesign/visual-editor.mp4" type="video/mp4"/>
+  <source src="/images/visual-editor.mp4" type="video/mp4"/>
 </video>
 
 </div>
